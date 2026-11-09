@@ -1,0 +1,1 @@
+Programming Hero Level 2 Assignment 1. This work shows my solutions for building TypeScript functions, setting up a development environment, solving custom logic challenges  and configuring the tsconfig.json file. To run the project locally, just open the project folder and use the tsc command or tsc --watch to compile your code easily.
